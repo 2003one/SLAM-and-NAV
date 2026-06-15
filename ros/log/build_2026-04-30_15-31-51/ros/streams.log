@@ -1,0 +1,21 @@
+[0.879s] Invoking command in '/home/the2003onean/ros/src/ros': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/the2003onean/ros/build/ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/the2003onean/ros/install/ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros build --build-base /home/the2003onean/ros/build/ros/build install --record /home/the2003onean/ros/build/ros/install.log --single-version-externally-managed install_data
+[1.171s] running egg_info
+[1.194s] writing ../../build/ros/ros.egg-info/PKG-INFO
+[1.194s] writing dependency_links to ../../build/ros/ros.egg-info/dependency_links.txt
+[1.194s] writing entry points to ../../build/ros/ros.egg-info/entry_points.txt
+[1.194s] writing requirements to ../../build/ros/ros.egg-info/requires.txt
+[1.194s] writing top-level names to ../../build/ros/ros.egg-info/top_level.txt
+[1.239s] reading manifest file '../../build/ros/ros.egg-info/SOURCES.txt'
+[1.239s] writing manifest file '../../build/ros/ros.egg-info/SOURCES.txt'
+[1.239s] running build
+[1.240s] running build_py
+[1.240s] running install
+[1.246s] running install_lib
+[1.269s] running install_data
+[1.269s] running install_egg_info
+[1.294s] removing '/home/the2003onean/ros/install/ros/lib/python3.12/site-packages/ros-0.0.0-py3.12.egg-info' (and everything under it)
+[1.294s] Copying ../../build/ros/ros.egg-info to /home/the2003onean/ros/install/ros/lib/python3.12/site-packages/ros-0.0.0-py3.12.egg-info
+[1.295s] running install_scripts
+[1.450s] Installing auto_nav script to /home/the2003onean/ros/install/ros/lib/ros
+[1.451s] writing list of installed files to '/home/the2003onean/ros/build/ros/install.log'
+[1.495s] Invoked command in '/home/the2003onean/ros/src/ros' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/the2003onean/ros/build/ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/the2003onean/ros/install/ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros build --build-base /home/the2003onean/ros/build/ros/build install --record /home/the2003onean/ros/build/ros/install.log --single-version-externally-managed install_data

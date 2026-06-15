@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../../build/ros/ros.egg-info/PKG-INFO
+../../../build/ros/ros.egg-info/SOURCES.txt
+../../../build/ros/ros.egg-info/dependency_links.txt
+../../../build/ros/ros.egg-info/entry_points.txt
+../../../build/ros/ros.egg-info/requires.txt
+../../../build/ros/ros.egg-info/top_level.txt
+../../../build/ros/ros.egg-info/zip-safe
+resource/ros
+ros/__init__.py
+ros/auto_nav.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
