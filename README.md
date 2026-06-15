@@ -7,7 +7,7 @@ Nav2.
 The repo includes `auto_nav`, a reactive explorer node that drives the robot
 hands-free so SLAM can map the environment without you steering with the keyboard.
 
-![Nav2 running on the saved TurtleBot3 map in RViz, with Gazebo on the left](nav2_rviz.png)
+![Nav2 running on the saved TurtleBot3 map in RViz, with Gazebo on the left](l.png)
 
 *Nav2 on the saved map — RViz shows the costmap, the planned path, and the
 Navigation 2 panel, with the Gazebo simulation on the left.*
